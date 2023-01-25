@@ -7,3 +7,4 @@ Built using modern technologies:
 -Mongoose
 -JWT
 -Stripe (Payment)
+-Pug
