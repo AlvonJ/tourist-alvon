@@ -2,7 +2,7 @@
 
 Tourist Web Application to search for tours and book tours with payment (includes authentication).
 
-## Techologies
+## Technologies
 
 - HTML
 - CSS
